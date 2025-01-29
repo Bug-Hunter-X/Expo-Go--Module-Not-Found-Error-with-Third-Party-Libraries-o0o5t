@@ -1,0 +1,1 @@
+This error occurs when using the Expo Go app to test an Expo application that uses a third party library that's not included in the Expo Go app itself.  The app will crash and give an error message in the Expo Go console that states the module is not found. This is because Expo Go has a limited set of modules that are available by default.
